@@ -14,3 +14,12 @@
     - 👯 se pudene con contactar a este correo **alexlizana05@gmail.com"
     - 🤔 estoy aprendiendo javascript
     - 💬  sitio web [yotube.com](yotube.com)
+
+
+    <div align="left">
+     <h3>LENGUAJES Y HERRAMIENTAS</h3>
+     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"
+        width="45" height="45"/>&nbsp;
+     </div>
+    </div>
