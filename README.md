@@ -14,7 +14,7 @@
     
 - Me pueden contactar a este correo **alex50wzx@gmail.com**
     
-- Actualmente aprendido react angular spring 
+- Actualmente aprendiendo react angular spring 
     
 
 
