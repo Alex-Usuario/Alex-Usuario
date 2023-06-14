@@ -1,25 +1,49 @@
- <div id="header" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-        <h1 align="center">HOLA BIENVENIDO </h1>
-        <h3 align="center">Soy programdor con expericiencia en java php c# y otros lenguajes de progrmacion tambien cuento con
-            expericiencia en base de datos sql server mysql ,oracle
+<div id="header" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+        <h1 align="center">BIENVENIDO</h1>
+        <h3 align="center">Apasionado por la programcion 
         </h3>
-    </div>
+</div>
 
-    ---
-    ### acerca de mi :
-    -
-    - 🔭 subo regular videos [canal] (https://www.youtube.com/watch?v=9YcJ5PDkHPE)
-    - 🌱 sse php, java, javascript,c#,pthon
-    - 👯 se pudene con contactar a este correo **alexlizana05@gmail.com"
-    - 🤔 estoy aprendiendo javascript
-    - 💬  sitio web [yotube.com](yotube.com)
+---
+### ACERCA DE MI :
+    
+- Autodidacta
+    
+- Conocimientos PHP JAVA CSHARP JAVASCRIPT
+    
+- Me pueden contactar a este correo **alex50wzx@gmail.com**
+    
+- Actualmente aprendido react angular spring 
+    
 
 
-    <div align="left">
-     <h3>LENGUAJES Y HERRAMIENTAS</h3>
+ 
+  <div align="left">
+<h3>LENGUAJES Y HERRAMIENTAS</h3>
      <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"
-        width="45" height="45"/>&nbsp;
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVACRIPT"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL SERVER" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="ORACLE" alt="CSHARP"
+        width="60" height="60"/>&nbsp;
      </div>
     </div>
+
+ 
+
+
+  
