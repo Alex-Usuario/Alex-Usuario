@@ -5,3 +5,12 @@
             expericiencia en base de datos sql server mysql ,oracle
         </h3>
     </div>
+
+    ---
+    ### acerca de mi :
+    -
+    - 🔭 subo regular videos [alexpapi](https://www.youtube.com/watch?v=9YcJ5PDkHPE)
+    - 🌱 sse php, java, javascript,c#,pthon
+    - 👯 se pudene con contactar a este correo **alexlizana05@gmail.com"
+    - 🤔 estoy aprendiendo javascript
+    - 💬  sitio web [yotube.com](yotube.com)
